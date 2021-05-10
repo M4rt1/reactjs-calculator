@@ -1,0 +1,17 @@
+.footer {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-width: 100vw;
+  height: auto;
+  margin-bottom: 0px;
+  -ms-flex-item-align: end;
+      align-self: end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: black;
+  color: rgba(255, 255, 255, 0.712);
+}
+/*# sourceMappingURL=Footer.css.map */
