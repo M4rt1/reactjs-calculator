@@ -150,7 +150,7 @@ export default class Calculator extends React.Component {
         this.checkOperatorIndex();
 
         this.clearDisplay(e);
-        this.showDisplay(e);    // WROC DO HANDLEOUTPUT KURWIU KEKW
+        this.showDisplay(e);
         this.handleOutput(e);
         this.checkDoubleDot(e);
         this.checkOperators(e);
